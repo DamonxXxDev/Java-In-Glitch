@@ -32,10 +32,10 @@ https://github.com/DamonxXxDev/Java-In-Glitch.git
 
 ## صور للبوتات
 - صورتين لبوتات الميوزك كشكر لكم
-* [الصوره الاولى](https://i.imgur.com/aqCh18V.png)
 ![Screenshot](https://i.imgur.com/aqCh18V.png)
-* [الصوره الثانيه](https://i.imgur.com/8mKVubG.png) 
+* [الصوره الاولى](https://i.imgur.com/aqCh18V.png)
 ![Screenshot](https://i.imgur.com/8mKVubG.png) 
+* [الصوره الثانيه](https://i.imgur.com/8mKVubG.png) 
 
 ## ملاحظه
 
