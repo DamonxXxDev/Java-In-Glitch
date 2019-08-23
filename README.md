@@ -1,9 +1,13 @@
 # Java-In-Glitch
 
 ### All CopyRight To Jagrosh
-
+#
+### jagrosh جميع حقوق البوت تعود ل 
+#
+### all Localization Rights reserved for ! ďęмoɴ‘☥#6524 and Server Toxic
+#
 ### حقوق التعريب محفوظه ل ديمون و سيرفر توكسيك
-
+#
 ### النسخ
 
 لنسخ رابط الملف
